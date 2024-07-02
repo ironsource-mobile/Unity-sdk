@@ -4,10 +4,10 @@ Turn your app into a business with [LevelPlay](https://www.is.com/). Maximize yo
 
 ## Getting Started
 Use this documentation to integrate the LevelPlay SDK:
-https://developers.ironsrc.com/ironsource-mobile/unity/unity-plugin/
+https://developers.is.com/ironsource-mobile/unity/unity-plugin/
 
 ## Version History
-You can find a summary of the ironSouce SDK version history [here](https://developers.ironsrc.com/ironsource-mobile/unity/sdk-change-log/)
+You can find a summary of the ironSouce SDK version history [here](https://developers.is.com/ironsource-mobile/unity/sdk-change-log/)
 
 ## Contact US
 For any question please contact us [here](https://ironsrc.formtitan.com/knowledge-center#/)
