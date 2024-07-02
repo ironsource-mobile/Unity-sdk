@@ -7,10 +7,10 @@ Use this documentation to integrate the LevelPlay SDK:
 https://developers.is.com/ironsource-mobile/unity/unity-plugin/
 
 ## Version History
-You can find a summary of the ironSouce SDK version history [here](https://developers.is.com/ironsource-mobile/unity/sdk-change-log/)
+You can find a summary of the LevelPlay SDK version history [here](https://developers.is.com/ironsource-mobile/unity/sdk-change-log/)
 
 ## Contact US
-For any question please contact us [here](https://ironsrc.formtitan.com/knowledge-center#/)
+For any question please contact us [here](https://ironsrc.my.site.com/helpcenter/s/)
 
 ## License
 The license can be viewed [here](https://github.com/ironsource-mobile/Unity-sdk/blob/master/LICENSE)
