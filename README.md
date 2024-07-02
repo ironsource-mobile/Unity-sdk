@@ -9,7 +9,7 @@ https://developers.is.com/ironsource-mobile/unity/unity-plugin/
 ## Version History
 You can find a summary of the LevelPlay SDK version history [here](https://developers.is.com/ironsource-mobile/unity/sdk-change-log/)
 
-## Contact US
+## Contact Us
 For any question please contact us [here](https://ironsrc.my.site.com/helpcenter/s/)
 
 ## License
